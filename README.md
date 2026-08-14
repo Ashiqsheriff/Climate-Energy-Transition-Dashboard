@@ -36,12 +36,17 @@ Python
 ## Dashboard
 
 The Power BI dashboard provides:
+
 - KPI cards
 - Top transition leaders
 - Renewable adoption vs carbon intensity
 - Climate transition categories
 - Renewable energy trend
 - Country filtering
+
+## Power BI Dashboard Screenshot
+
+![Climate & Energy Transition Dashboard](screenshots/dashboard.png)
 
 ## Key Skills Demonstrated
 
